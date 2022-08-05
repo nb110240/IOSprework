@@ -1,7 +1,7 @@
 ## Hello World App
 
 ### App Description
-`TODO://` Add app description
+`TODO://` This app changes text and text color by the press of a button.
 
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
